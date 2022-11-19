@@ -2,13 +2,15 @@
 <h3 align="center">A student from Poland</h3>
 
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=faterek&count_private=true&show_icons=true&locale=en&theme=city_lights" alt="Faterek" />
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=faterek&layout=compact&show_icons=true&locale=en&layout=compact&theme=city_lights" alt="Faterek" /><br />
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=faterek&layout=compact&show_icons=true&locale=en&layout=compact&theme=city_lights" alt="Faterek" />
 
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb)
-![SurrealDB](https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white)
+<img align="left" alt="Arch" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" />
+<img align="left" alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+<img align="left" alt="SolidJS" src="https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb" />
+<img align="left" alt="SurrealDB" src="https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white" />  <br />
 
+<h1>About me</h1>
+  
 - 🔭 I’m currently working on [my personal website](https://github.com/portfolio-website)
 
 - 🌱 I’m currently learning **Solid Start** js framework and **TypeScript** language
@@ -19,8 +21,7 @@
 
 - 📫 How to reach me **seweryn.fater@proton.me**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3>Languages and Tools:</h3>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="50" height="50"/> </a>
@@ -33,7 +34,6 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/> </a>
 <a href="https://surrealdb.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/10982346" alt="SurrealDB" width="50" height="50"/> </a>
 <a href="https://godotengine.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="Godot" width="50" height="50"/> </a>
-</p>
 
-<h3 align="left">Support:</h3>
+<h3>Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Fater"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Fater" /></a></p>
