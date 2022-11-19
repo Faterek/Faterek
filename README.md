@@ -11,7 +11,8 @@
 <img align="left" alt="SolidJS" src="https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb" />
 <img alt="SurrealDB" src="https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white" />
 
-  
+## WEBSITE IS UNDER CONSTRUCTION SO LINKS POINT TO NOTHING
+
 - 🔭 I’m currently working on [my personal website](https://github.com/portfolio-website)
 
 - 🌱 I’m currently learning **Solid Start** js framework and **TypeScript** language
