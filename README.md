@@ -21,7 +21,7 @@
 
 - 📝 I sometimes write articles on [https://fater.cf/blog/](https://fater.cf/blog/)
 
-- 📫 How to reach me **seweryn.fater@proton.me**
+- 📫 How to reach me via email **seweryn.fater@proton.me** or Discord **Faterek#6252**
 
 <h3>Languages and Tools:</h3>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/> </a>
