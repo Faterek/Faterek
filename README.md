@@ -38,4 +38,4 @@
 <a href="https://godotengine.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="Godot" width="50" height="50"/> </a>
 
 <h3>Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Fater"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Fater" /></a></p>
+<p><a href="https://liberapay.com/Faterek/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></p>
