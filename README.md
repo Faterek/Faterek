@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Seweryn Fater</h1>
 <h3 align="center">A student from Poland</h3>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=faterek&count_private=true&show_icons=true&locale=en&theme=transparent" alt="Faterek" />
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=faterek&show_icons=true&locale=en&theme=transparent&layout=compact" alt="Faterek" />
+<img align="left" width="47%" src="https://github-readme-stats-three-livid-97.vercel.app/api?username=faterek&count_private=true&show_icons=true&locale=en&theme=transparent" alt="Faterek" />
+<img width="47%" src="https://github-readme-stats-three-livid-97.vercel.app/api/top-langs?username=faterek&show_icons=true&locale=en&theme=transparent&layout=compact" alt="Faterek" />
 
 <img align="left" alt="Arch" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" />
 <img align="left" alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
