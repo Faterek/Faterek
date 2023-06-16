@@ -11,17 +11,15 @@
 <img align="left" alt="SolidJS" src="https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb" />
 <img alt="SurrealDB" src="https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white" />
 
-## WEBSITE IS UNDER CONSTRUCTION SO LINKS POINT TO PAGE NOT FOUND
+## WEBSITE IS WIP
 
 - 🔭 I’m currently working on [my personal website](https://github.com/portfolio-website)
 
-- 🌱 I’m currently learning **Solid Start** js framework and **TypeScript** language
+- 🌱 I’m currently learning **SolidJS**, **Jenkins** and **Terraform**
 
-- 👨‍💻 All of my projects are available at [https://fater.cf/projects/](https://fater.cf/projects/) or [https://github.com/Faterek?tab=repositories](https://github.com/Faterek?tab=repositories)
+- 👨‍💻 All of my projects are available in my [repos](https://github.com/Faterek?tab=repositories)
 
-- 📝 I sometimes write articles on [https://fater.cf/blog/](https://fater.cf/blog/)
-
-- 📫 How to reach me via email **seweryn.fater@proton.me** or Discord **Faterek#6252**
+- 📫 How to reach me via email **seweryn.fater@proton.me** or Discord **faterek**
 
 <h3>Languages and Tools:</h3>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/> </a>
